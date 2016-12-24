@@ -1,7 +1,5 @@
-# TEST REPO
+# HC proto
 
 ---
 
-* This is a test repository.
-* This repository has yet no function.
-* This repository is only used for testing purposes.
+* hobbyclassifier, still under development.
